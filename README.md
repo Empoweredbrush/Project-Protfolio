@@ -11,7 +11,7 @@ An Erlang program used in calculating the points gained from playing various pok
 - Calculates point amount based off of user input of hand combinations
 - Implemented pattern matching, guards, and functional tehcniques in Erlang
 
-### [Personal Balance Tracker] (https://github.com/Empoweredbrush/balance_tracker)
+### [Personal Balance Tracker](https://github.com/Empoweredbrush/balance_tracker)
 A Python and SQL-Lite application for tracking a users finances
 - Implements full CRUD operations
 - persistent database storage
