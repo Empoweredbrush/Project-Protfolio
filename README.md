@@ -16,3 +16,9 @@ A Python and SQL-Lite application for tracking a users finances
 - Implements full CRUD operations
 - persistent database storage
 - Command-line interface for managing balances
+
+## Certificates
+
+C# Certificate of Completion
+<img width="585" height="459" alt="Screenshot 2026-02-27 at 10 31 45 AM" src="https://github.com/user-attachments/assets/89b1b58c-3894-4269-81cb-92292d88a45d" />
+
